@@ -1,0 +1,32 @@
+# Unity'nin otomatik oluşturduğu klasörler
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Oyunun build çıktıları
+/[Bb]uild/
+/[Bb]uilds/
+
+# Kod editörünün oluşturduğu dosyalar
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# Hata kayıtları ve performans ölçümleri
+*.log
+/[Mm]emoryCaptures/
+/ProfilerCaptures/
+/[Rr]ecordings/
+
+# Bilgisayarında kalacak kurtarma yedekleri
+/Recovery_*/
+
+# Bizim çalışma notlarımız
+/AGENTS.md
